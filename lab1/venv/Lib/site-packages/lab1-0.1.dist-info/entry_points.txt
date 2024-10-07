@@ -1,0 +1,2 @@
+[console_scripts]
+factorial = lab1.lab1:main
