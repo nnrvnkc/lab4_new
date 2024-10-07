@@ -10,3 +10,4 @@ python -m pip install -r requirements.txt
 
 REM Запускаємо тести
 python -m unittest discover -s tests
+python -m unittest discover > report.xml
