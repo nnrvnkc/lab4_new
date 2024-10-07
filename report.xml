@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="pytest" tests="4" failures="0" errors="0" skipped="0" time="0.131">
-    <testcase classname="tests.test_lab1.TestFactorial" name="test_factorial_negative" time="0.004" />
-    <testcase classname="tests.test_lab1.TestFactorial" name="test_factorial_one" time="0.003" />
-    <testcase classname="tests.test_lab1.TestFactorial" name="test_factorial_positive" time="0.002" />
-    <testcase classname="tests.test_lab1.TestFactorial" name="test_factorial_zero" time="0.001" />
-  </testsuite>
-</testsuites>
